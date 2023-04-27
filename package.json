@@ -1,0 +1,23 @@
+{
+  "name": "css-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inviolableviolets/w1exLayout-sergio-mata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inviolableviolets/w1exLayout-sergio-mata/issues"
+  },
+  "homepage": "https://github.com/inviolableviolets/w1exLayout-sergio-mata#readme",
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
+}
